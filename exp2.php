@@ -1,3 +1,3 @@
 <?php
-echo'ecp2'
+echo'main v2'
 ?>
